@@ -1,2 +1,4 @@
 # GitDemo
-This is just for Practice. &lt;br> Author - Suren Garja
+This is just for Practice. 
+<br>
+Author - Suren Garja
